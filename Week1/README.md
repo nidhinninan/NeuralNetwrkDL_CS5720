@@ -12,6 +12,8 @@ Write a program that takes two strings (first_name, last_name) from the user and
 2. User inputs first and last name interactively
 3. Program prints both the full name and the string with alternate characters
 
+_Video Link_: https://drive.google.com/file/d/1Lyqsj37zeDj8Na86Bc4uFB1CV39BGBNU/view?usp=sharing
+
 ## Problem 2: Word Count in File (Week1_NN_2.ipynb)
 
 ### Problem Statement
@@ -30,6 +32,8 @@ Write a Python program to find the word count in a file (input.txt) for each lin
    - Original input text
    - Word count for each unique word
 
+_Video Link_: https://drive.google.com/file/d/1LvAV5henaeT3oA9jvUABSN9o7Cl6TrSH/view?usp=drive_link
+
 ## Problem 3: Height Conversion (Week1_NN_3.ipynb)
 
 ### Problem Statement
@@ -46,6 +50,8 @@ Write a program that reads heights in inches from users into a list and converts
    - Formula: height * 2.54
    - Results rounded to 2 decimal places
 4. Print both original heights in inches and converted heights in centimeters
+
+_Video Link_: https://drive.google.com/file/d/1LxwV5tOtJ626YbCNi8u_kvNx-mTiW3TV/view?usp=drive_link
 
 ## Note
 The code follows the rubric guidelines and includes proper documentation. Each implementation includes interactive elements and demonstrates different Python concepts like:
