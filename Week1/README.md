@@ -40,7 +40,7 @@ Write a program that reads heights in inches from users into a list and converts
    - Created empty list for heights in inches
    - Used while loop to continuously accept height inputs
    - Loop breaks when user enters 'q'
-   - **NOTE: Enter ONLY the correct values as this code as no check to ensure if the entered values are numerical or even logical**
+   - **NOTE: Enter ONLY the correct values as this code has no checks to ensure if the entered values are numerical or even sensible**
 3. Conversion implementation:
    - Used list comprehension to convert inches to centimeters
    - Formula: height * 2.54
