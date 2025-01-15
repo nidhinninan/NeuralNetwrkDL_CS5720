@@ -1,4 +1,4 @@
-T# Neural Networks and Deep Learning Coursework
+# Neural Networks and Deep Learning Coursework
 
 ## Student Information
 - **Name:** Nidhin Ninan
