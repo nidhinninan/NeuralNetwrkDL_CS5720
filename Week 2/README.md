@@ -49,5 +49,5 @@ Implementation of various NumPy array operations:
    - Uses numpy's broadcasting capabilities for efficient operation
 
 ## Note
-- Make sure to initialize/create you conda environment appropriately with the required packages like Jupyterlab, jupyterlab-server and numpy with you use a jupyterlab project in PyCharm.
-- Add the conda environemnt to PyCharm by adding a Sytem Interpreter and then select the environment in the Jupyterlab project that we work with
+- Make sure to initialize/create you conda environment appropriately with the required packages like Jupyterlab, jupyterlab-server and numpy when you use a jupyterlab project in PyCharm.
+- Add the conda environment to PyCharm by adding a Sytem Interpreter and then select the environment in the Jupyterlab project that we work with
