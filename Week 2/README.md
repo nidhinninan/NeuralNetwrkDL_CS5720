@@ -50,4 +50,4 @@ Implementation of various NumPy array operations:
 
 ## Note
 - Make sure to initialize/create you conda environment appropriately with the required packages like Jupyterlab, jupyterlab-server and numpy when you use a jupyterlab project in PyCharm.
-- Add the conda environment to PyCharm by adding a Sytem Interpreter and then select the environment in the Jupyterlab project that we work with
+- Add the conda environment to PyCharm by adding a Sytem Interpreter and then select the environment in the Jupyterlab project that we work with.
