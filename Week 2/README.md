@@ -1,11 +1,6 @@
 # CS5720: Neural Networks and Deep Learning
 ## In-Class Programming Assignment 2
 
-**Student Name:** Nidhin Ninan  
-**Student ID:** [Your Student ID]  
-**Course:** CS5720 Neural Networks and Deep Learning (Spring 2025)  
-**University:** University of Central Missouri
-
 ## Description
 This repository contains the solutions for In-Class Programming Assignment 2. The assignment consists of two problems focused on Python classes and NumPy array operations.
 
