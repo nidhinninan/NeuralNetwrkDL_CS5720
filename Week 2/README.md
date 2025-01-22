@@ -44,7 +44,7 @@ Implementation of various NumPy array operations:
 
 3. Maximum Value Replacement:
    - Identifies maximum value in each row using np.argmax()
-   - Replaces maximum values with 1 using array indexing
+   - Replaces maximum values with 0 using array indexing
    - Implements solution without using loops
    - Uses numpy's broadcasting capabilities for efficient operation
 
