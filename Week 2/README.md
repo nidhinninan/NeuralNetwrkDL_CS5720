@@ -33,7 +33,7 @@ The code demonstrates:
 ### Problem 2: NumPy Array Operations
 File: `Week2_NN_2.ipynb`
 
-**VIDEO LINK** : https://drive.google.com/file/d/1WjSHpy91Yn-WzhPcIszfnTF46LuW9O3q/view?usp=sharing
+**Video Link** : https://drive.google.com/file/d/1WjSHpy91Yn-WzhPcIszfnTF46LuW9O3q/view?usp=sharing
 
 Implementation of various NumPy array operations:
 
