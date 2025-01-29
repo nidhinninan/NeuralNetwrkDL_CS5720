@@ -5,7 +5,7 @@ This repository contains solutions for In-Class Programming Assignment 3, focusi
 
 ### Problem 1: Data Analysis and Manipulation
 File: `Week3_NN_1.ipynb`
-**Video Link**: [Problem 1 Demo](https://drive.google.com/file/d/1WjSHpy91Yn-WzhPcIszfnTF46LuW9O3q/view?usp=sharing)
+**Video Link**: [Problem 1 Demo](https://drive.google.com/file/d/1argstmAitHnDKo24dn2A9oGuLBMQ0wDE/view?usp=sharing)
 
 Implementation of various data manipulation operations using Pandas:
 1. Data Processing:
@@ -27,7 +27,7 @@ The code demonstrates:
 
 ### Problem 2: Linear Regression Implementation
 File: `Week3_NN_2.ipynb`
-**Video Link**: [Problem 2 Demo](https://drive.google.com/file/d/1WjSHpy91Yn-WzhPcIszfnTF46LuW9O3q/view?usp=sharing)
+**Video Link**: [Problem 2 Demo](https://drive.google.com/file/d/1argn4xeZ7S7xDkThOvpV2pyJCj5u0fCG/view?usp=sharing)
 
 Implementation of Linear Regression for salary prediction:
 1. Model Development:
