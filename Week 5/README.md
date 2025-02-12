@@ -7,7 +7,7 @@
 ### ID: 700772413  
 
 ## Description  
-This repository contains solutions for In-Class Programming Assignment 3, focusing on neural network implementation and model training using Python.  
+This repository contains solutions for In-Class Programming Assignment 4, focusing on neural network implementation and model training using Python.  
 
 ---
 
