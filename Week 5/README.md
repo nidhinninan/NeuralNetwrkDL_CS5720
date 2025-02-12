@@ -13,7 +13,8 @@ This repository contains solutions for In-Class Programming Assignment 4, focusi
 
 ## Problem 1: Neural Network Implementation (Week5_NN_1a.ipynb)  
 
-### **File:** `Week5_NN_1a.ipynb`  Video Link: Problem 1a - https://drive.google.com/file/d/1i5ig7v0SNeXzLY9DvCpTcIdHnHgreRSZ/view?usp=drive_link
+### **File:** `Week5_NN_1a.ipynb`  
+**Video Link**: Problem 1a - https://drive.google.com/file/d/1i5ig7v0SNeXzLY9DvCpTcIdHnHgreRSZ/view?usp=drive_link
 
 ### **Implementation Details:**  
 1. **Data Preprocessing:**  
@@ -37,7 +38,8 @@ This repository contains solutions for In-Class Programming Assignment 4, focusi
 
 ## Problem 2: Neural Network Model Training (Week5_NN_1b.ipynb)  
 
-### **File:** `Week5_NN_1b.ipynb`,  Video Link: Problem 1b: https://drive.google.com/file/d/1i--UjGuwQKiLp4XY0J_q3Bm_17gZ-2O6/view?usp=drive_link
+### **File:** `Week5_NN_1b.ipynb`
+**Video Link**: Problem 1b: https://drive.google.com/file/d/1i--UjGuwQKiLp4XY0J_q3Bm_17gZ-2O6/view?usp=drive_link
 
 ### **Implementation Details:**  
 1. **Dataset Preparation:**  
@@ -60,7 +62,8 @@ This repository contains solutions for In-Class Programming Assignment 4, focusi
 
 ## Problem 3: Advanced Model Training (Week5_NN_2.ipynb)  
 
-### **File:** `Week5_NN_2.ipynb`  Video Link: Problem 2: https://drive.google.com/file/d/1i2KnXf3cOBp6eUs5tO5gOsSfDQ8fQKlb/view?usp=drive_link
+### **File:** `Week5_NN_2.ipynb`  
+**Video Link**: Problem 2: https://drive.google.com/file/d/1i2KnXf3cOBp6eUs5tO5gOsSfDQ8fQKlb/view?usp=drive_link
 
 ### **Implementation Details:**  
 1. **Hyperparameter Tuning:**  
