@@ -3,8 +3,9 @@
 
 **Github Repo Link:** https://github.com/nidhinninan/NeuralNetwrkDL_CS5720.git 
 
-### Name: Nidhin Ninan  
-### ID: 700772413  
+**Name:** Nidhin Ninan
+
+**ID:** 700772413
 
 ## Description
 This repository contains an implementation of a Convolutional Neural Network (CNN) for classifying images from the CIFAR-10 dataset using Keras and TensorFlow.
