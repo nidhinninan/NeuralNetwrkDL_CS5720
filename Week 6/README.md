@@ -11,7 +11,7 @@
 This repository contains an implementation of a Convolutional Neural Network (CNN) for classifying images from the CIFAR-10 dataset using Keras and TensorFlow.
 
 ### **File:** `Week6_NN_1.ipynb`  
-**Video Link**: Problem 1a - https://drive.google.com/file/d/1i5ig7v0SNeXzLY9DvCpTcIdHnHgreRSZ/view?usp=drive_link
+**Video Link**: https://drive.google.com/file/d/1l636ZoYFFJw2UFc5bbpVJbQfhV2eLXwG/view?usp=sharing
 
 ### Model Architecture Summary
 The CNN model consists of multiple layers:
@@ -19,7 +19,7 @@ The CNN model consists of multiple layers:
    - Convolutional layer with 32 filters (3x3 kernel)
    - ReLU activation
    - Dropout (20%)
-
+ 
 2. Feature Extraction Layers:
    - Multiple convolutional layers (32, 64, and 128 filters)
    - Max pooling layers (2x2)
