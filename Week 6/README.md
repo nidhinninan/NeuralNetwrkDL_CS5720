@@ -102,6 +102,7 @@ The CNN model consists of multiple layers:
 - Displays accuracy metrics
 - Shows predictions vs actual labels for sample images
 - Visualizes learning curves
+![Accuracy and Loss Plots](AccuracyLoss_Plot.png)
 
 ## Visualization Outputs
 - Training progress plots
