@@ -10,7 +10,7 @@
 ## Description
 This repository contains an implementation of a Convolutional Neural Network (CNN) for classifying images from the CIFAR-10 dataset using Keras and TensorFlow.
 
-### **File:** `Week5_NN_1a.ipynb`  
+### **File:** `Week6_NN_1.ipynb`  
 **Video Link**: Problem 1a - https://drive.google.com/file/d/1i5ig7v0SNeXzLY9DvCpTcIdHnHgreRSZ/view?usp=drive_link
 
 ### Model Architecture Summary
