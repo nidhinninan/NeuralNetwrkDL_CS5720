@@ -1,5 +1,5 @@
 # CS5720: Neural Networks and Deep Learning
-## In-Class Programming Assignment 6 (Week 7)
+## In-Class Programming Assignment 6 (Week 8)
 
 **Github Repo Link:** https://github.com/nidhinninan/NeuralNetwrkDL_CS5720.git 
 
