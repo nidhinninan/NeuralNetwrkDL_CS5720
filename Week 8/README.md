@@ -10,7 +10,7 @@
 ## Description
 This repository contains an implementation of Autoencoder and Denoising Autoencoder models for processing the MNIST dataset using PyTorch.
 
-## **File:** `Week6_NN_1.ipynb`  
+## **File:** `ICP_6_NNDL.py`  
 **Video Link**: <video file link>
 
 ## Model Architecture Summary
