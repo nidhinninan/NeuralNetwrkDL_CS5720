@@ -1,9 +1,11 @@
 # CS5720: Neural Networks and Deep Learning
 ## In-Class Programming Assignment 6 (Week 7)
 
-**Name:** [Your Name]  
-**ID:** [Your ID]  
-**GitHub Repo Link:** [Your GitHub Repo Link]
+**Github Repo Link:** https://github.com/nidhinninan/NeuralNetwrkDL_CS5720.git 
+
+**Name:** Nidhin Ninan
+
+**ID:** 700772413
 
 ## Description
 This repository contains an implementation of Autoencoder and Denoising Autoencoder models for processing the MNIST dataset using PyTorch.
