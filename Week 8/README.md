@@ -28,7 +28,7 @@ The standard autoencoder model consists of an encoder and decoder with multiple 
    - Output Layer (784 nodes)
 
 ### Denoising Autoencoder
-The denoising autoencoder uses the same architecture as the standard autoencoder but is trained to reconstruct clean images from noisy inputs with a noise factor of 0.4.
+The denoising autoencoder uses the same architecture as the standard autoencoder but is trained to reconstruct clean images from noisy inputs with a noise factor of 0.5.
 
 ## Implementation Details
 
