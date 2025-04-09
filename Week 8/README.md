@@ -81,12 +81,16 @@ The denoising autoencoder uses the same architecture as the standard autoencoder
 - Displays training loss curves
 - Shows original vs. reconstructed images
 - For denoising autoencoder: demonstrates noise removal capabilities
+![Training Loss-Autoencoder](TrainLoss_Autoencoder.png)
+![Training Loss-Denoise](TrainLoss_Denoise.png)
 
 ## Visualization Outputs
 - Training loss plots for both models
 - Sample image reconstructions
 - Individual test image reconstructions
 - Comparison between standard and denoising autoencoder performance
+![Original vs. Reconstructed Image-Denoise](ReconstructedImage_Autoencoder.png)
+![Original vs. Reconstructed Image-Autoencoder](ReconstructedImage_Denoise.png)
 
 ## Notes
 - Models include ReLU activation functions in hidden layers
