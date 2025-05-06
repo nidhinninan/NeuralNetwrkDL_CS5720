@@ -8,7 +8,7 @@
 
 ## **File:** `FinalExam_NNDL_NidhinNinan.py`  
 **Video Link**: [https://drive.google.com/file/d/1-PJnPSKpMet6rLEpqPgZcZ6vEQEcLVKL/view?usp=sharing](https://drive.google.com/file/d/1yQ9eMqIJEPZsuWjEQvwh-EK_MG3Il37d/view?usp=drive_link)
-
+**2nd link**" https://1drv.ms/f/c/6cb5aa6f9dde108e/EgCHDIK_IopDhMGf4tIeeBIBtj3TRGkYvaRtvbdWlp9TSA?e=hzeuks
 ## Overview
 
 This Jupyter Notebook walks you through training, saving and loading an LSTM-based sentiment analysis model. You will:
